@@ -1,0 +1,29 @@
+#haXMS - HaxMe Cross Management System
+#Version 0.1 Pre-Release [Alpha]
+#Author - cwade12c
+#Site - http://haxme.org
+
+----
+
+This software and its source code is not the entire site / source in all
+entirety. For example - css files, images, and javascript have been stripped. The source contained within the release are structure files of how haxme.org operates - you should have a basic understanding of PHP/HTML/CSS before using the source code of these files.
+
+Note: In future source releases, you will find a lot more source files. About 30-40 files have unfortunately been left out of this release.
+
+----
+
+Copyright 2010 - Some Rights Reserved.
+See: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+----
+
+Please leave the copyright of our software intact. Intensive hard work was poured into designing this project - it costs you nothing to use our structures, we would just appreciate recognition. 
+
+----
+
+Credits where credits are do:
+
+Geshi - source highlighter
+Nanolink Sha256 Class - Sha256 php function
+VulgarisOverIP PHPGMailer - gmail php email() function
+SoulBlade102 - RSOC/index template. Everything was recoded around this. 
